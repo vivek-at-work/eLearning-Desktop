@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UserControl Unloaded="UserControl_Unloaded"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:Coneixement="clr-namespace:Coneixement.Infrastructure.Convertors;assembly=Coneixement.Infrastructure"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Coneixement.Examination.Views.Examination"
+             mc:Ignorable="d"
+             Background="White"
+             d:DesignHeight="300"
+             d:DesignWidth="300">
+    <UserControl.Resources>
+        <ControlTemplate TargetType="{x:Type ToggleButton}" x:Key="templateAnswer">
+            <Border Padding="1"
+                    Background="Black">
+                <BulletDecorator Background="Transparent">
+                    <BulletDecorator.Bullet>
+                        <Border Padding="3"
+                                Background="White">
+                            <Grid x:Name="container"
+                                  Width="32"
+                                  Background="Green"
+                                  Height="32">
+                                <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center" />
+                            </Grid>
+                        </Border>
+                    </BulletDecorator.Bullet>
+                </BulletDecorator>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsChecked"
+                         Value="false">
+                    <Setter TargetName="container"
+                            Property="Background"
+                            Value="Red" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <Style x:Key="RadioButtonItemStyle"
+               TargetType="{x:Type ListBoxItem}">
+            <Setter Property="Margin"
+                    Value="0,0,5,0" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                        <Border HorizontalAlignment="Center"
+                                BorderThickness="0"
+                                Background="Transparent">
+                            <ToggleButton Focusable="False"
+                                         IsHitTestVisible="False"
+                                         IsChecked="{TemplateBinding IsSelected}">
+                                <ContentPresenter />
+                            </ToggleButton>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <ItemsPanelTemplate x:Key="HorizontalItemsPanel">
+            <VirtualizingStackPanel Orientation="Horizontal" />
+        </ItemsPanelTemplate>
+        <Style TargetType="{x:Type ToggleButton}">
+            <Setter Property="Background"
+                    Value="Blue" />
+            <Setter Property="Template"
+                    Value="{DynamicResource templateAnswer}"></Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid  x:Name="ExaminationGrid">
+        <Grid.Resources>
+            <Coneixement:EncryptedDataConvertor x:Key="EncryptedDataConvertor" />
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="90*" />
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="QuestionListView"
+                  Background="White"
+                  Grid.Row="1"
+                  Grid.Column="0"
+                  ItemsSource="{Binding QuestionPaper.Questions}"
+                  Width="{Binding ActualWidth, ElementName=helperField-100}"
+                  AlternationCount="2"
+                  IsSynchronizedWithCurrentItem="False">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true">
+                    <GridViewColumn>
+                        <GridViewColumnHeader>
+                            <StackPanel HorizontalAlignment="Center">
+                                <TextBlock FontSize="14"
+                                           HorizontalAlignment="Center"
+                                           TextAlignment="Center"
+                                           Text="{Binding Path=QuestionPaper.Title}" />
+                                <TextBlock FontSize="14"
+                                           x:Name="timertext"
+                                           Width="{Binding ElementName=helperField, Path=ActualWidth}"
+                                           Text="{Binding Path=QuestionPaper.RemainingTime}"
+                                           TextAlignment="Right"
+                                           HorizontalAlignment="Center" />
+                                <StackPanel Orientation="Horizontal"
+                                            HorizontalAlignment="Center">
+                                    <TextBlock FontSize="14"
+                                               x:Name="currentquestion"
+                                               Text="{Binding Path=QuestionPaper.CurrentQuestion}"
+                                               TextAlignment="Right"
+                                               HorizontalAlignment="Right" />
+                                    <TextBlock FontSize="14"
+                                               x:Name="questionsep"
+                                               Text="/"
+                                               TextAlignment="Right"
+                                               HorizontalAlignment="Right" />
+                                    <TextBlock FontSize="14"
+                                               x:Name="totalquestion"
+                                               Text="{Binding Path=QuestionPaper.TotalQuestions}"
+                                               TextAlignment="Right"
+                                               HorizontalAlignment="Right" />
+                                </StackPanel>
+                            </StackPanel>
+                        </GridViewColumnHeader>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel  Orientation="Vertical"
+                                             Background="Black"
+                                             HorizontalAlignment="Stretch">
+                                    <StackPanel HorizontalAlignment="Stretch"
+                                                VerticalAlignment="Stretch"
+                                                Background="White">
+                                        <Image HorizontalAlignment="Stretch"
+                                               Stretch="Fill"
+                                               Source="{Binding ImagePath, Converter={StaticResource EncryptedDataConvertor}}" />
+                                        <ListBox Margin="5"
+                                                 BorderThickness="0"
+                                                 ItemsSource="{Binding Options}"
+                                                 SelectedValue="{Binding UsersAnswer}"
+                                                 ItemContainerStyle="{StaticResource RadioButtonItemStyle}"
+                                                 ItemsPanel="{StaticResource HorizontalItemsPanel}" />
+                                    </StackPanel>
+                                    <Border Background="Black"
+                                            Padding="2" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <DockPanel Grid.Row="2"
+                   LastChildFill="True">
+            <Button x:Name="Prev"
+                    Click="Prev_Click"
+                    Content="Previous"
+                    HorizontalAlignment="Stretch"
+                    Height="50"
+                    DockPanel.Dock="Left" />
+            <Button x:Name="Next"
+                    Click="Next_Click"
+                    Content="Next"
+                    HorizontalAlignment="Stretch"
+                    Height="50"
+                    DockPanel.Dock="Right" />
+            <Button x:Name="submit"
+                    Click="submit_Click"
+                    Content=" Submit and Review"
+                    HorizontalAlignment="Stretch"
+                    Height="50" />
+        </DockPanel>
+        <Grid Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <!--This is the hidden helper Field which is used to bind to, using the "Fill" column of the helper grid-->
+            <Grid Grid.Column="1"
+                  x:Name="helperField" />
+        </Grid>
+    </Grid>
+</UserControl>

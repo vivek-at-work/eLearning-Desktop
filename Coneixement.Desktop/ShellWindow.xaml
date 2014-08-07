@@ -1,0 +1,172 @@
+﻿<Window    Icon="Resources/ikon.jpg" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:Coneixement="clr-namespace:Coneixement.Desktop" 
+           xmlns:Controls="clr-namespace:Coneixement.Desktop.Controls" 
+           xmlns:cal="http://www.codeplex.com/prism" 
+           xmlns:inf="clr-namespace:Coneixement.Infrastructure;assembly=Coneixement.Infrastructure"
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           x:Class="Coneixement.Desktop.ShellWindow" 
+           Title="iCrack"
+           ScrollViewer.HorizontalScrollBarVisibility="Auto"
+           ScrollViewer.VerticalScrollBarVisibility="Auto"
+           Visibility="Hidden"
+           ResizeMode="NoResize"
+            WindowStartupLocation="CenterScreen"
+           Height="0"
+           Width="0"
+           inf:RegionPopupBehaviors.CreatePopupRegionWithName="{x:Static inf:RegionNames.SecondaryRegion}"
+           inf:RegionPopupBehaviors.ContainerWindowStyle="{StaticResource WindowRegionStyle}">
+    <Window.Background>
+        <ImageBrush ImageSource="Resources/background.jpg" Stretch="UniformToFill" />
+    </Window.Background>
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type inf:ExtendedHeader}">
+            <StackPanel Orientation="Horizontal" ToolTip="{Binding Path=ToolTip}">
+                <Image Source="{Binding Path=IconUri}" Width="16" Height="16" />
+                <TextBlock Text="{Binding Path=Title}" />
+            </StackPanel>
+        </DataTemplate>
+        <Storyboard x:Key="InTransition">
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="Logo" Storyboard.TargetProperty="(UIElement.Opacity)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:02" Value=".4" />
+                <SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="1" />
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="ContentGrid" Storyboard.TargetProperty="(UIElement.Opacity)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01.5000000" Value="1" />
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="ContentGrid" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="-72" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01" Value="-157" />
+                <SplineDoubleKeyFrame KeySpline="0.5,0,0.5,1" KeyTime="00:00:01.5000000" Value="0" />
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="Logo" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="-50" />
+                <SplineDoubleKeyFrame KeyTime="00:00:02" Value="-101" />
+                <SplineDoubleKeyFrame KeySpline="0,0,0,1" KeyTime="00:00:02.5000000" Value="0" />
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="MainToolbar" Storyboard.TargetProperty="(UIElement.Opacity)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01.5000000" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:02" Value="1" />
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource InTransition}" />
+            <BeginStoryboard>
+                <Storyboard >
+                    <DoubleAnimation Duration="0:0:.8" Storyboard.TargetProperty="Left" From="1920" To="0" AccelerationRatio=".1"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top">
+        <Grid Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <Grid.Resources>
+                <Coneixement:VisibilityToStarHeightConverter x:Key="VisibilityToStarHeightConverter" />
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100" />
+                <RowDefinition Height="4*" />
+                <RowDefinition Height="{Binding Visibility, ElementName=ActionContent, Converter={StaticResource VisibilityToStarHeightConverter}, ConverterParameter=5}" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"  />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Canvas x:Name="Logo"   VerticalAlignment="Stretch" HorizontalAlignment="Stretch"   RenderTransformOrigin="0.5,0.5">
+                <Canvas.Resources>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect ShadowDepth="3" Color="#424242" Opacity="1" BlurRadius="20"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Canvas.Resources>
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+                <TextBlock Text="iCrack " HorizontalAlignment="Right" TextWrapping="NoWrap" Foreground="#424242" FontSize="92" Canvas.Right="50" Canvas.Top="5"  TextAlignment="Left" FontWeight="Bold">
+                    <TextBlock.Effect>
+                        <DropShadowEffect ShadowDepth="3" Color="#dedede" Opacity="1" BlurRadius="20"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+                <TextBlock Text="by IKON technology" HorizontalAlignment="Right"  FontStyle="Italic" RenderTransformOrigin="0.25,0.25"  Foreground="#fff" FontSize="14"  TextAlignment="Left" FontWeight="Light" Canvas.Right="85" Canvas.Top="85" >
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-15"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform></TextBlock>
+            </Canvas>
+            <!-- main bar -->
+            <ItemsControl x:Name="MainToolbar" cal:RegionManager.RegionName="{x:Static inf:RegionNames.MainToolBarRegion}" HorizontalAlignment="Right"  Grid.Row="1" >
+                <ItemsControl.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform />
+                    </TransformGroup>
+                </ItemsControl.RenderTransform>
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Background="Red" Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+            <!-- content -->
+            <Grid   x:Name="ContentGrid"  Margin="5" Grid.Row="1" RenderTransformOrigin="10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform />
+                            <SkewTransform />
+                            <RotateTransform />
+                            <TranslateTransform />
+                        </TransformGroup>
+                    </Grid.RenderTransform>
+                    <Controls:RoundedBox  Grid.Row="1" />
+                </Grid>
+                <Controls:AnimatedTabControl Grid.Column="1" x:Name="PositionBuySellTab"  SelectedIndex="0" ItemContainerStyle="{StaticResource ShellTabItemStyle}"  cal:RegionManager.RegionName="{x:Static inf:RegionNames.MainRegion}"  AutomationProperties.AutomationId="PositionSummaryTab" />
+            </Grid>
+        </Grid>
+        <ContentControl x:Name="ActionContent"  Visibility="Collapsed" cal:RegionManager.RegionName="{x:Static inf:RegionNames.ActionRegion}">
+            <ContentControl.Template>
+                <ControlTemplate TargetType="ContentControl">
+                    <Grid>
+                        <Controls:RoundedBox />
+                        <ContentPresenter Content="{TemplateBinding Content}" />
+                    </Grid>
+                </ControlTemplate>
+            </ContentControl.Template>
+        </ContentControl>
+    </Grid>
+</Window>

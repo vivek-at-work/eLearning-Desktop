@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserName>ikon</UserName>
+  <Password>admin</Password>
+  <LastLoginOn>2014-07-05T21:49:25.0267366+05:30</LastLoginOn>
+  <LastLoginStatus>Success</LastLoginStatus>
+</User>

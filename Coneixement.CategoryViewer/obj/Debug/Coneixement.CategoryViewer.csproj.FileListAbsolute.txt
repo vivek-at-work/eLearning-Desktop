@@ -1,0 +1,5 @@
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.CategoryViewer\bin\Debug\Coneixement.CategoryViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.CategoryViewer\bin\Debug\Coneixement.CategoryViewer.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.CategoryViewer\obj\Debug\Coneixement.CategoryViewer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.CategoryViewer\obj\Debug\Coneixement.CategoryViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.CategoryViewer\obj\Debug\Coneixement.CategoryViewer.pdb

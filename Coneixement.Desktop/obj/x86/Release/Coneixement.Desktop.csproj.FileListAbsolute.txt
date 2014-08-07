@@ -1,0 +1,43 @@
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\bin\Release\Coneixement.Desktop.exe.config
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\Styles.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\TabItemResource.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\WindowRegionResource.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\SplashScreen.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\App.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\SplashScreen.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\App.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.lref
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\bin\Release\Coneixement.Desktop.exe.config
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\Styles.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\TabItemResource.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Resources\WindowRegionResource.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\SplashWindow.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\App.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\SplashWindow.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\App.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.lref
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\bin\Release\Coneixement.Desktop.exe.config
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Resources\Styles.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Resources\TabItemResource.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Resources\WindowRegionResource.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\SplashWindow.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\App.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Controls\RoundedBox.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\SplashWindow.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\App.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_Content.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Desktop\obj\x86\Release\Coneixement.Desktop_MarkupCompile.lref
