@@ -1,0 +1,722 @@
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Service.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Service.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\ResolveAssemblyReference.cache
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+I:\02-08-2013\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Personal\Projects\Desktop App\Coneixement.Desktop\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\WPFPdfViewer.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Interop.AcroPDFLib.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\pdflib.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\WPFPdfViewer.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\AxInterop.AcroPDFLib.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\pdflib.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Interop.AcroPDFLib.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\WPFPdfViewer.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Interop.AcroPDFLib.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\SuggestionsForUserModule.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.VideoPlayer.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.PDFViewer.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.pdb

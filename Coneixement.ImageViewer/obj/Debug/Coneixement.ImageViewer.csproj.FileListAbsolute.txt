@@ -1,0 +1,144 @@
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.g.resources
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.baml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.g.cs
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.g.resources
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.baml
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.g.cs
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.g.resources
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Coneixement.ImageViewer.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.baml
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Views\ImageViwerControl.g.cs
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.g.resources
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ImageViewer\obj\Debug\Coneixement.ImageViewer.pdb

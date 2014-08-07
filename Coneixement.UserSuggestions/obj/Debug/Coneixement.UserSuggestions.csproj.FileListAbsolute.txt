@@ -1,0 +1,14 @@
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\obj\Debug\ResolveAssemblyReference.cache
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Coneixement.UserSuggestions.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Coneixement.UserSuggestions.pdb
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Coneixement.Infrastructure.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\obj\Debug\Coneixement.UserSuggestions.dll
+D:\Coneixement.Desktop\Coneixement.UserSuggestions\obj\Debug\Coneixement.UserSuggestions.pdb

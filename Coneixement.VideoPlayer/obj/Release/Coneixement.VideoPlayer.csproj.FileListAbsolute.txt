@@ -1,0 +1,10 @@
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.VideoPlayer\obj\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.VideoPlayer\obj\Release\Views\VideoPlayer.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.VideoPlayer\obj\Release\Views\VideoPlayer.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.VideoPlayer\obj\Release\Coneixement.VideoPlayer_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.VideoPlayer\obj\Release\Coneixement.VideoPlayer.g.resources
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.VideoPlayer\obj\Release\Coneixement.VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.VideoPlayer\obj\Release\Views\VideoPlayer.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.VideoPlayer\obj\Release\Views\VideoPlayer.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.VideoPlayer\obj\Release\Coneixement.VideoPlayer_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.VideoPlayer\obj\Release\Coneixement.VideoPlayer.g.resources

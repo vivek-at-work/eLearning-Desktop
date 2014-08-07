@@ -1,0 +1,119 @@
+﻿<UserControl x:Class="Coneixement.ShowExaminationTypes.Views.ShowTestSeriesTypes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            xmlns:Convertors="clr-namespace:Coneixement.Infrastructure.Convertors;assembly=Coneixement.Infrastructure"
+            xmlns:CP="clr-namespace:Coneixement.Infrastructure.CustomPanals;assembly=Coneixement.Infrastructure"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <Storyboard x:Key="InTransition">
+            <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="itemsControl" Storyboard.TargetProperty="(UIElement.Opacity)">
+                <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01" Value=".5" />
+                <SplineDoubleKeyFrame KeyTime="00:00:01.5000000" Value="1" />
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Convertors:AbsolutePathConverter x:Key="AbsolutePathConverter" />
+        <ItemsPanelTemplate x:Key="radialTemplate">
+            <CP:RadialPanel x:Name="radialPanelInstance"  Visibility="Visible" Background="{x:Null}" />
+        </ItemsPanelTemplate>
+        <ItemsPanelTemplate x:Key="wrapTemplate">
+            <WrapPanel />
+        </ItemsPanelTemplate>
+        <DataTemplate x:Key="itemTemplate">
+            <Button Tag="{Binding}">
+                <Button.Template>
+                    <ControlTemplate>
+                        <ControlTemplate.Resources>
+                            <Storyboard x:Key="OnMouseEnter1">
+                                <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="grid" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)">
+                                    <SplineDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                                    <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="1.1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                                <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="grid" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)">
+                                    <SplineDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                                    <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="1.1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </ControlTemplate.Resources>
+                        <Grid Width="128" Height="128" x:Name="grid" RenderTransformOrigin="0.5,0.5">
+                            <Grid.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                                    <SkewTransform AngleX="0" AngleY="0"/>
+                                    <RotateTransform Angle="0"/>
+                                    <TranslateTransform X="0" Y="0"/>
+                                </TransformGroup>
+                            </Grid.RenderTransform>
+                            <Border BorderThickness="8,8,8,8" CornerRadius="50,50,50,50" x:Name="border">
+                                <Border.Background>
+                                    <ImageBrush  ImageSource="{Binding Path=IconPath, Converter={StaticResource AbsolutePathConverter}}"/>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                                <RemoveStoryboard BeginStoryboardName="OnMouseEnter1_BeginStoryboard"/>
+                                <RemoveStoryboard BeginStoryboardName="OnMouseEnter1_BeginStoryboard"/>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                                <BeginStoryboard Storyboard="{StaticResource OnMouseEnter1}" x:Name="OnMouseEnter1_BeginStoryboard"/>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </DataTemplate>
+    </UserControl.Resources>
+    <UserControl.Background>
+        <ImageBrush ImageSource="../Resources/background.jpg" Stretch="UniformToFill" />
+    </UserControl.Background>
+    <UserControl.Triggers>
+    </UserControl.Triggers>
+    <StackPanel  Orientation="Vertical"
+                    HorizontalAlignment="Stretch">
+        <Button Height="48"
+                    Width="48"
+                     Click="Button_Click_1"
+                    HorizontalAlignment="Right"
+                    Content="back">
+            <Button.Template>
+                <ControlTemplate>
+                    <Border>
+                        <Image Height="32"
+                                   Width="32"
+                                   Source="../Resources/back.png" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBlock Text="{Binding Path=SelectedCategory.Title}" FontSize="28" Foreground="#424242" HorizontalAlignment="Center"  FontWeight="Bold">
+            <TextBlock.Effect>
+                <DropShadowEffect
+                          ShadowDepth="1"
+                          Direction="120"    
+                          Opacity="1"
+                          BlurRadius="0.1" />
+            </TextBlock.Effect>
+        </TextBlock>
+        <Grid Margin="20">
+            <ItemsControl x:Name="itemsControl"  Margin="10"
+                      Width="400"
+                      Height="400"
+                      Visibility="Hidden"
+                      ItemsSource="{Binding Path=TestSeriesTypes}"
+                      IsVisibleChanged="itemsControl_IsVisibleChanged_1"
+                      ItemTemplate="{DynamicResource itemTemplate}"
+                      ItemsPanel="{DynamicResource radialTemplate}"
+                      Button.Click="ItemButton_Click">
+                <ItemsControl.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform />
+                    </TransformGroup>
+                </ItemsControl.RenderTransform>
+            </ItemsControl>
+        </Grid>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,159 @@
+﻿<UserControl x:Class="SuggestionsForUserModule.Views.SelectSubject"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:local="clr-namespace:Coneixement.Infrastructure.Helpers;assembly=Coneixement.Infrastructure"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="500">
+    <Grid x:Name="SuggestionGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  >
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Effect">
+                            <Setter.Value>
+                                <DropShadowEffect ShadowDepth="3" Color="#424242" Opacity="1" BlurRadius="20"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Trigger>
+                </Style.Triggers>
+
+            </Style>
+
+        </Grid.Resources>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Resources/background.jpg" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="68*"/>
+        </Grid.RowDefinitions>
+        <Grid  Grid.Row="0" HorizontalAlignment="Right" >
+            <Button Click="BackButton_Click"  HorizontalAlignment="Right" Content="back">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border >
+                            <Image Height="32" Width="32" Source="../Resources/back.png" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+
+        <DockPanel LastChildFill="True" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"    >
+            <DockPanel.Resources>
+                <Style TargetType="TextBlock" >
+                    <Setter  Property="Padding" Value="5,2"/>
+                    <Setter  Property="HorizontalAlignment" Value="Stretch"/>
+                    <Setter  Property="Background" Value="#000"/>
+                    <Setter  Property="Foreground" Value="#fff"/>
+                    <Setter  Property="FontSize" Value="15"/>
+                    <Setter Property="TextAlignment" Value="Center"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect ShadowDepth="3" Color="#424242" Opacity="1" BlurRadius="20"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+                <Style TargetType="Ellipse" >
+
+                    <Setter  Property="Height" Value="128"/>
+                    <Setter  Property="Width" Value="128"/>
+                    <Setter  Property="StrokeThickness" Value="5"/>
+                    <Setter  Property="Margin" Value="2"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect ShadowDepth="3" Color="#424242" Opacity="1" BlurRadius="20"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DockPanel.Resources>
+            <local:CirclePanel x:Name="_panel"   Radius="160"   HorizontalAlignment="Center" VerticalAlignment="Center" >
+
+            <StackPanel>
+                <Ellipse   MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="Physics"  >
+                <Ellipse.Fill>
+                            <ImageBrush  ImageSource="../Resources/Physics.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock   Text="Physics" />
+            </StackPanel>
+            <StackPanel>
+                <Ellipse MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="Chemistry" >
+                <Ellipse.Fill>
+                            <ImageBrush ImageSource="../Resources/Chemistry.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock   Text="Chemistry" />
+            </StackPanel>
+
+            <StackPanel>
+            <Ellipse MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="Mathematics">
+                <Ellipse.Fill>
+                            <ImageBrush ImageSource="../Resources/maths.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock  Text="Mathematics" />
+            </StackPanel>
+            <StackPanel>
+            <Ellipse x:Name="Biology" 
+     MouseLeftButtonDown="Physics_MouseLeftButtonDown"  >
+                <Ellipse.Fill>
+                            <ImageBrush ImageSource="../Resources/Biology.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock  Text="Biology" />
+            </StackPanel>
+
+        </local:CirclePanel>
+
+        <local:CirclePanel Visibility="Collapsed"   x:Name="_panelTestSeries"  Radius="160"   HorizontalAlignment="Center" VerticalAlignment="Center" >
+
+            <StackPanel>
+                <Ellipse   MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="ChapterwiseMockTest" >
+                <Ellipse.Fill>
+                        <ImageBrush  ImageSource="../Resources/Chapterwise.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock   Text="Chapter Wise" />
+            </StackPanel> 
+            <StackPanel Visibility="Hidden">
+                    <Ellipse MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="PrelimsandadvanceTestPaper">
+                <Ellipse.Fill>
+                        <ImageBrush ImageSource="../Resources/prilimseandadvanedc.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock  Text="Prelims and Advance" />
+            </StackPanel>
+            <StackPanel>
+                <Ellipse MouseLeftButtonDown="Physics_MouseLeftButtonDown"  x:Name="LastYearTestPapers">
+                <Ellipse.Fill>
+                        <ImageBrush ImageSource="../Resources/previousYears.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock  Text="Previous Years" />
+            </StackPanel>
+        
+            <StackPanel Visibility="Hidden">
+                        <Ellipse x:Name="UnitTest" 
+     MouseLeftButtonDown="Physics_MouseLeftButtonDown" >
+                <Ellipse.Fill>
+                        <ImageBrush ImageSource="../Resources/unittest.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+                <TextBlock   Text="Unit Tests" />
+            </StackPanel>
+        </local:CirclePanel>
+
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,465 @@
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.pdb
+D:\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.dll
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.pdb
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Service.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\dac218\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\28-07-2013\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\Thick Layer-Vivek Srivastava\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Vivek\Coneixement e-Learning Solution\31-07-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\rajesh\Desktop\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+H:\Vivek\02-08-2013\Coneixement.Desktop\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Personal\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+H:\Projects\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.dll.config
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+D:\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\l\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb

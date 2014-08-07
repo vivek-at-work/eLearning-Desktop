@@ -1,0 +1,3 @@
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\Coneixement.Infrastructure\obj\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\Coneixement.Infrastructure\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\Coneixement.Infrastructure\obj\Release\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache

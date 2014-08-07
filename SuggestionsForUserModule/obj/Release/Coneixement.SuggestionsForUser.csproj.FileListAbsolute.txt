@@ -1,0 +1,14 @@
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserUserControl.baml
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserUserControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule.g.resources
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\ResolveAssemblyReference.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\Views\SuggestionsForUserUserControl.baml
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\Views\SuggestionsForUserUserControl.g.cs
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule_MarkupCompile.cache
+D:\Vivek\Coneixement e-Learning Solution\Thick Layer-Vivek Srivastava\New folder\Thick Layer-Vivek Srivastava_30\Coneixement.Desktop\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule.g.resources
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\SuggestionsForUserModule\obj\Release\Views\SuggestionsForUserUserControl.baml
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\SuggestionsForUserModule\obj\Release\Views\SuggestionsForUserUserControl.g.cs
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule_MarkupCompile.cache
+C:\Users\VIVEK\Desktop\Coneixement.DesktopLernerTool\SuggestionsForUserModule\obj\Release\SuggestionsForUserModule.g.resources
