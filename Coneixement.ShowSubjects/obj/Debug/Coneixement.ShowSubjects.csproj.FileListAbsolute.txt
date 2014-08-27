@@ -20,3 +20,45 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ShowSubjects\obj\Debug\Conei
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Coneixement.ShowSubjects.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Coneixement.ShowSubjects.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Views\SubjectView.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Views\SubjectView.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\obj\Debug\Coneixement.ShowSubjects.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.ShowSubjects\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll

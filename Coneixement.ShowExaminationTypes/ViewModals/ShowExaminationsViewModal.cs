@@ -145,7 +145,7 @@ namespace Coneixement.ShowExaminationTypes.ViewModals
         }
         public void NotifyExaminationChange(Examination examination)
         {
-            Application.Current.MainWindow.Hide();      
+            
             _eventAggrigator.GetEvent<SelectedQuestionPaperChanged>().Publish(new Concept
                 {
                      DataPath=examination.CategoryDataPath,

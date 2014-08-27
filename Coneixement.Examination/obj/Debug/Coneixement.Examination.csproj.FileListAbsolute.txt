@@ -157,3 +157,43 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Examination\obj\Debug\Views\
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Examination\obj\Debug\Coneixement.Examination.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Examination\obj\Debug\Coneixement.Examination.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Examination\obj\Debug\Coneixement.Examination.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Coneixement.Examination.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Coneixement.Examination.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Views\Examination.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Views\ReviewUserControl.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Views\Examination.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination_MarkupCompile.lref
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Views\ReviewUserControl.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Examination\obj\Debug\Coneixement.Examination.pdb

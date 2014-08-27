@@ -16,3 +16,21 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.PrintControl\obj\Debug\Conei
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Resources\ikon.jpg
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Coneixement.DataImporter.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Coneixement.DataImporter.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Views\DataImporteView.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Views\DataImporteView.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.PrintControl\obj\Debug\Coneixement.DataImporter.pdb

@@ -590,3 +590,17 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.VideoPlayer\obj\Debug\Coneix
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Coneixement.VideoPlayer.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Coneixement.VideoPlayer.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Views\VideoPlayer.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Views\VideoPlayer.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.VideoPlayer\obj\Debug\Coneixement.VideoPlayer.pdb

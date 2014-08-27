@@ -351,3 +351,33 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\SuggestionsForUserModule\obj\Debug\Views
 C:\Users\VIVEK\Desktop\ikon\Source Code\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.pdb
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Resources\loading.gif
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\SuggestionsForUserModule.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\SuggestionsForUserModule.pdb
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\Coneixement.SuggestionsForUser.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\Views\SuggestionsForUserUserControl.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule_MarkupCompile.lref
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\Views\SuggestionsForUserUserControl.baml
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.dll
+C:\Users\GistConnect\Desktop\Coneixement\SuggestionsForUserModule\obj\Debug\SuggestionsForUserModule.pdb

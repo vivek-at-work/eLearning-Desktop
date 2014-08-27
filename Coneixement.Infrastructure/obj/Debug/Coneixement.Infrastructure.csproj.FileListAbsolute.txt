@@ -463,3 +463,31 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Con
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\MySql.Data.Entity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\obj\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Infrastructure\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll

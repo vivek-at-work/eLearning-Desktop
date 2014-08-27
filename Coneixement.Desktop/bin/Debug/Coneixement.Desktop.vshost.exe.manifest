@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Coneixement.Desktop.exe" version="2.1.1.15" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Coneixement.Desktop.exe" version="2.1.1.16" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="ikon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Coneixement.Desktop" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Coneixement.Desktop" version="2.0.0.1" language="neutral" processorArchitecture="x86" />
     <commandLine file="Coneixement.Desktop.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -50,19 +50,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>SxEN5aTqyoKgTj1sizn2pdA9cHI=</dsig:DigestValue>
+        <dsig:DigestValue>vQqiZ2GikQNvgYzHvZdygrOzi9w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Coneixement.Desktop.exe" size="296960">
-      <assemblyIdentity name="Coneixement.Desktop" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Coneixement.Desktop.exe" size="297472">
+      <assemblyIdentity name="Coneixement.Desktop" version="2.0.0.1" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cJMFpzhl3kK1Wq2bEAEwsSk0n2k=</dsig:DigestValue>
+        <dsig:DigestValue>QfuQ0nQnhNKbA6mJ97P0LyFvZB4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KuroqAgP26zhexdjItsnmP5qN9I=</dsig:DigestValue>
+        <dsig:DigestValue>opVpAuRcjWopoFx574CRNduyTtI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+gNStn29LFZRHlxyRBs0z81ExaI=</dsig:DigestValue>
+        <dsig:DigestValue>/KHAQYeEiTkWQQChbAzbCz07yOE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>BVUlzxgYAhXn6K5Hcq0u0h4vRRQ=</dsig:DigestValue>
+        <dsig:DigestValue>gqRKhs3f/QiqAbu6pDp9U9FcOF4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>K8OrX9jtH6GYB+EDaMfC/eWMmYE=</dsig:DigestValue>
+        <dsig:DigestValue>pjBbHa20lgUpriHmlWBIkpjkeBM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0WW0gDANlGVENhRakq+6st+int8=</dsig:DigestValue>
+        <dsig:DigestValue>f+SAPUQlpvY06PE44fzG030VLXo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Mk5ogqf1Gwxiw8HFidMGMLZJUnA=</dsig:DigestValue>
+        <dsig:DigestValue>2wt3KzucspmG7GFmZOx8BRuMcBw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -146,7 +146,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>m2xKCH1di4U1T0c9BxVMqltYuOQ=</dsig:DigestValue>
+        <dsig:DigestValue>HyyKTkuX1HmXuDprawpFf6/8QzQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -158,7 +158,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>GUW0upzJ2qgtQDF/VLL/B78Qezs=</dsig:DigestValue>
+        <dsig:DigestValue>cbU+ZqIDiuKwfUXail3SRTNI7Hc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -170,7 +170,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>roKNqdOkWqC5KYE1BFzackNqbrs=</dsig:DigestValue>
+        <dsig:DigestValue>7PLpZqTDmeWer31GANpF2+wpIig=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -182,7 +182,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CEq7ugAtFisEw4RIQxnWZorBJe4=</dsig:DigestValue>
+        <dsig:DigestValue>pVXwl9KdeAcryPRlg/70jT4O9U4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -194,7 +194,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xBigw2nr3bKg/L1xyDpNXvWyoDE=</dsig:DigestValue>
+        <dsig:DigestValue>bho5n7hRIQ6BFOkW69JIm0vvkLo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -207,6 +207,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
         <dsig:DigestValue>4xwFrmheUdB4CLHdJM7O2dKZ7YE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Expression.Interactions.resources.dll" size="7168">
+      <assemblyIdentity name="Microsoft.Expression.Interactions.resources" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="en" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>8mgsCMSRNuBeMdSFAlLavMHGP4k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -374,7 +386,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UVHJRWuPNRfM897EwOr07cmJGio=</dsig:DigestValue>
+        <dsig:DigestValue>KmCI5gfCKij2BAgUfLQVOt5glSU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -387,6 +399,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
         <dsig:DigestValue>2rtOz/0MQiqO6/9dTsgRam6Q1+c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\System.Windows.Interactivity.resources.dll" size="6656">
+      <assemblyIdentity name="System.Windows.Interactivity.resources" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="en" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>A4zv9gUcBd8DkZmHDi9b03hoMKA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -507,13 +531,13 @@
       <dsig:DigestValue>9C31csSqPb5zPJrAxVl3fkdjir8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Modules\Coneixement.DataImporter.dll" size="218112">
+  <file name="Modules\Coneixement.DataImporter.dll" size="220160">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>AEBu68cFRtmrItpMw/C82y5avRU=</dsig:DigestValue>
+      <dsig:DigestValue>WLL9v2g0r5FR4HXTb/Crmk8mX8k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.Examination.dll" size="61440">
@@ -522,7 +546,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>uS/k1gpNdMXzOvK5tIoSDeomdyw=</dsig:DigestValue>
+      <dsig:DigestValue>axuCaSP0TMEdJSnaCC+aN4MBbGw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.ImageViewer.dll" size="17920">
@@ -531,16 +555,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>p6F96WPALkbl6LmGC69qGAyai7k=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Modules\Coneixement.Infrastructure.dll" size="74752">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>U52qkCPuVL691u+WDiwlXjFk43I=</dsig:DigestValue>
+      <dsig:DigestValue>Qb/NrUtQmrlBLJSPGZ/s2pHKTlw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.LicencingModule.dll" size="200704">
@@ -549,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>fmFIxu5t+ZmMLCTvTKjgsfKHArI=</dsig:DigestValue>
+      <dsig:DigestValue>72BwFH0K8Kw/0aPD+Aq9wmy6Ovs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.Login.dll" size="221184">
@@ -558,7 +573,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>vrYkvRrsSu5rOo8/L/8/Ahc8eus=</dsig:DigestValue>
+      <dsig:DigestValue>5syjZcy91gUXJFtOZsk0FDqfbPc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.QuestioncatelogGenrator.dll" size="22016">
@@ -567,16 +582,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>L666uCwhu9HkYB55eh+xRxLp9fA=</dsig:DigestValue>
+      <dsig:DigestValue>Vwb4Lcl7nsBZNK+cZESAkxVZ5Tk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Modules\Coneixement.ShowCategories.dll" size="45056">
+  <file name="Modules\Coneixement.ShowCategories.dll" size="45568">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Oy5wpj/ziVOMOUAFifYNZ+ZEBGw=</dsig:DigestValue>
+      <dsig:DigestValue>sBrF+vAVV2vlO2HJf7F/tkilgNM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.ShowExaminationTypes.dll" size="88576">
@@ -585,7 +600,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>BnB4ZO69ifYml8nUo9BmSnoM4D8=</dsig:DigestValue>
+      <dsig:DigestValue>Ry6i6qqDAiWxwwqbaoBsI5z1Rbw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.ShowSubjects.dll" size="46080">
@@ -594,7 +609,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Gf3avUZjztQejRHL1yUJH96tmz0=</dsig:DigestValue>
+      <dsig:DigestValue>uNTEoNPQyiDr0oMNwCh62bmD0W8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Modules\Coneixement.SplashScreen.dll" size="68608">
@@ -603,25 +618,25 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>2yEiNfPzRpVVrGEbAzSZzj/eXm0=</dsig:DigestValue>
+      <dsig:DigestValue>KjaLPoeEWDQ4oBB/kdbv+UhQ/QU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Modules\Coneixement.VideoPlayer.dll" size="61952">
+  <file name="Modules\Coneixement.VideoPlayer.dll" size="62976">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>guQe3g9nJTqRmv0wjuT4/cDT9zw=</dsig:DigestValue>
+      <dsig:DigestValue>yzcI73FZZqxd2c4mjFyqmtIIDwU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Modules\SuggestionsForUserModule.dll" size="498688">
+  <file name="Modules\SuggestionsForUserModule.dll" size="499200">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>wWRcTkH2GC1Uy3eFmbiHY5BQA4U=</dsig:DigestValue>
+      <dsig:DigestValue>A8qnX3mmh6vAsSs5pVCszN8liSU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\loading.gif" size="12400">

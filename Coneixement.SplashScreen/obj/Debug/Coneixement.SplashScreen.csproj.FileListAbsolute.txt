@@ -142,3 +142,39 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.SplashScreen\obj\Debug\Conei
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Coneixement.SplashScreen.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Coneixement.SplashScreen.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Views\SplashWindow.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Views\SplashWindow.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.SplashScreen\obj\Debug\Coneixement.SplashScreen.pdb

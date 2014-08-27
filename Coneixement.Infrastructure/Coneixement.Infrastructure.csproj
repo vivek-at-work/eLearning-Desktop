@@ -139,7 +139,6 @@
     <Compile Include="Helpers\Configuration\ConeixementConfigurations.cs" />
     <Compile Include="Helpers\FileEncryption.cs" />
     <Compile Include="Helpers\Network\WebRequestHelper.cs" />
-    <Compile Include="Helpers\ParallelismHelper.cs" />
     <Compile Include="Helpers\PasswordHelper.cs" />
     <Compile Include="Helpers\SecurityHelper.cs" />
     <Compile Include="Helpers\SerializationHelper.cs" />

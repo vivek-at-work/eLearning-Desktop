@@ -2639,3 +2639,421 @@ Timestamp: 8/7/2014 7:29:13 AM Message: Initializing modules. Category: Debug Pr
 -*
 Timestamp: 8/7/2014 7:29:15 AM Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: CONEIXEMENT-2 Application Domain: Coneixement.Desktop.vshost.exe Process Id: 11236 Process Name: C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7756 Thread Name:  Extended Properties: 
 *-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: There is no explicit mapping for the categories 'Info'. The log entry was: 
+Timestamp: 19-08-2014 07:14:10
+Message: Application Initialting
+Category: Info
+Priority: 1
+EventId: 1
+Severity: Information
+Title:
+Machine: GIST-PRABHAB
+App Domain: Coneixement.Desktop.vshost.exe
+ProcessId: 14620
+Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe
+Thread Name: 
+Win32 ThreadId:16028
+Extended Properties:  Category:  Priority: -1 EventId: 6352 Severity: Error Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: There is no explicit mapping for the categories 'Info'. The log entry was: 
+Timestamp: 19-08-2014 07:14:11
+Message: Shell Window Created
+Category: Info
+Priority: 1
+EventId: 1
+Severity: Information
+Title:
+Machine: GIST-PRABHAB
+App Domain: Coneixement.Desktop.vshost.exe
+ProcessId: 14620
+Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe
+Thread Name: 
+Win32 ThreadId:16028
+Extended Properties:  Category:  Priority: -1 EventId: 6352 Severity: Error Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:11 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 19-08-2014 07:14:12 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 14620 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 16028 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:30 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:33 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:33 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:33 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:33 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:00:38 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6248 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7444 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:14:30 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8560 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8820 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:40 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:40 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:40 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:41 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 25-08-2014 06:26:42 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 5684 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 6728 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:10 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:12 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:12 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:12 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:12 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:32:13 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6876 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 1568 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:35 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:33:36 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 7416 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7372 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:20 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:37:21 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 6300 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 8000 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:17 Message: Logger was created successfully. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:17 Message: Creating module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:17 Message: Configuring module catalog. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Creating Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Configuring the Unity container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Adding UnityBootstrapperExtension to container. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Configuring ServiceLocator singleton. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Configuring region adapters. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Configuring default region behaviors. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Registering Framework Exception Types. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Creating the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Setting the RegionManager. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Updating Regions. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Initializing the shell. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Initializing modules. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-
+-*
+Timestamp: 26-08-2014 05:39:18 Message: Bootstrapper sequence completed. Category: Debug Priority: 3 EventId: 1 Severity: Information Title: Machine: GIST-PRABHAB Application Domain: Coneixement.Desktop.vshost.exe Process Id: 8072 Process Name: C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Desktop\bin\Debug\Coneixement.Desktop.vshost.exe Win32 Thread Id: 7740 Thread Name:  Extended Properties: 
+*-

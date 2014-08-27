@@ -260,8 +260,8 @@
             <Grid.Resources></Grid.Resources>
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*" />
-                <RowDefinition Height="90*" />
-                <RowDefinition Height="10*" />
+                <RowDefinition Height="60*" />
+                <RowDefinition Height="30*" />
                 <RowDefinition Height="1*" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
@@ -308,12 +308,15 @@
                         Content="Previous"
                         HorizontalAlignment="Stretch"
                         Height="50"
+                        
+                        Margin="50,25,25,0"
                         DockPanel.Dock="Left" />
                 <Button x:Name="Next"
                         Click="Next_Click"
                         Content="Next"
                         HorizontalAlignment="Stretch"
                         Height="50"
+                        Margin="0,25,50,25"
                         DockPanel.Dock="Right" />
             </DockPanel>
         </Grid>

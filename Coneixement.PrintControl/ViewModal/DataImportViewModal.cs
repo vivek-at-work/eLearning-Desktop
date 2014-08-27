@@ -110,7 +110,7 @@ namespace Coneixement.DataImporter.ViewModal
         }
         void worker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
-            Message = " Data Menifest Saved";
+            Message = "Data Menifest has been Saved";
             BackgroundWorker workercopyDvd1 = new BackgroundWorker();
             workercopyDvd1.WorkerReportsProgress = true;
             workercopyDvd1.DoWork += delegate(object s, DoWorkEventArgs args)
@@ -127,23 +127,31 @@ namespace Coneixement.DataImporter.ViewModal
         }
          void workercopyDvd1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
-            while ( Directory.Exists(DataImportPath) && (File.Exists(Path.Combine(DataImportPath,"Categories.cnx"))))
+            MessageBoxResult result=MessageBoxResult.OK;
+            while( ( Directory.Exists(DataImportPath) && (File.Exists(Path.Combine(DataImportPath,"Categories.cnx")))))
             {
-                GetResult();
+                result = GetResult();
+                if (result == MessageBoxResult.Cancel)
+                    break;
             }
-             BackgroundWorker workercopyDvd2 = new BackgroundWorker();
-            workercopyDvd2.DoWork += delegate(object s, DoWorkEventArgs args)
+            if (result != MessageBoxResult.Cancel)
             {
-                DirectoryCopy(DataImportPath, DataRepositoryPath, true);
-            };
-            workercopyDvd2.RunWorkerAsync();
-            workercopyDvd2.RunWorkerCompleted += workercopyDvd2_RunWorkerCompleted;
+                BackgroundWorker workercopyDvd2 = new BackgroundWorker();
+                workercopyDvd2.DoWork += delegate(object s, DoWorkEventArgs args)
+                {
+                    DirectoryCopy(DataImportPath, DataRepositoryPath, true);
+                };
+                workercopyDvd2.RunWorkerAsync();
+                workercopyDvd2.RunWorkerCompleted += workercopyDvd2_RunWorkerCompleted;
+            }
+            else
+                _eventAggrigator.GetEvent<DataImportComplted>().Publish(new DirectoryInfo(DataRepositoryPath));
         }
          public MessageBoxResult GetResult()
          {
              if(IsDVDDriveAvailable)
              EjectMedia.Eject(new DirectoryInfo(DataImportPath).Parent.FullName);
-             MessageBoxResult result = MessageBox.Show("Insert Another DVD That is Provided with the Package and Press OK Button Then", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+             MessageBoxResult result = MessageBox.Show("Insert Another DVD That is Provided with the Package and Press OK Button Then", "Information", MessageBoxButton.OKCancel, MessageBoxImage.Information);
              return result;
          }
          void workercopyDvd2_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)

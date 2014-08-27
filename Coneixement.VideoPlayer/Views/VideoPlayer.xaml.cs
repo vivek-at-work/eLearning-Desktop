@@ -27,7 +27,7 @@ namespace Coneixement.VideoPlayer.Views
             _positionTimer = new DispatcherTimer(new TimeSpan(0, 0, 0, 0, 100), DispatcherPriority.Loaded, DispatcherTimerTick, Dispatcher);
             timelineSlider.IsEnabled = true;
             volumeSlider.IsEnabled = true;
-             ViewModel = new MediaPlayerViewModel(this);
+            ViewModel = new MediaPlayerViewModel(this);
             InitializePropertyValues();
             timelineSlider.ApplyTemplate();
             Thumb thumb = (timelineSlider.Template.FindName(
@@ -72,8 +72,8 @@ namespace Coneixement.VideoPlayer.Views
         }
         void videoElement_MediaEnded(object sender, RoutedEventArgs e)
         {
-            if(!(this.ViewModel as MediaPlayerViewModel).MoveNextInPlayList())
-            videoElement.Stop();
+            if (!(this.ViewModel as MediaPlayerViewModel).MoveNextInPlayList())
+                videoElement.Stop();
         }
         void videoElement_MediaOpened(object sender, RoutedEventArgs e)
         {
@@ -126,8 +126,8 @@ namespace Coneixement.VideoPlayer.Views
         }
         void DispatcherTimerTick(object sender, EventArgs e)
         {
-            if(!isDragging)
-            UpdateUserInterfaceByTimer();
+            if (!isDragging)
+                UpdateUserInterfaceByTimer();
         }
         void OnMouseDownPlayMedia(object sender, MouseButtonEventArgs args)
         {
@@ -170,9 +170,9 @@ namespace Coneixement.VideoPlayer.Views
         }
         void timelineSlider_MouseUp(object sender, MouseButtonEventArgs e)
         {
-           // if (videoElement.NaturalDuration.HasTimeSpan)
-               // timelineSlider.Maximum = videoElement.NaturalDuration.TimeSpan.TotalMilliseconds;
-           // videoElement.Position = new TimeSpan(0, 0, 0, 0, (int)timelineSlider.Value);
+            // if (videoElement.NaturalDuration.HasTimeSpan)
+            // timelineSlider.Maximum = videoElement.NaturalDuration.TimeSpan.TotalMilliseconds;
+            // videoElement.Position = new TimeSpan(0, 0, 0, 0, (int)timelineSlider.Value);
         }
         void SeekToMediaPosition(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
@@ -183,7 +183,7 @@ namespace Coneixement.VideoPlayer.Views
                 // Create a TimeSpan with miliseconds equal to the slider value.
                 TimeSpan ts = new TimeSpan(0, 0, 0, 0, SliderValue);
                 videoElement.Position = ts;
-               // videoElement.Play();
+                // videoElement.Play();
             }));
         }
         public IViewModel ViewModel

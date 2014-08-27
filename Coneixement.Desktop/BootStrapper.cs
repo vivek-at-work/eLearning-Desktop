@@ -11,7 +11,7 @@ namespace Coneixement.Desktop
         private readonly EnterpriseLibraryLoggerAdapter _logger = new EnterpriseLibraryLoggerAdapter();
         public BootStrapper()
         {
-            _logger.Log("Application Initialting" , Category.Info , Priority.High);
+            //_logger.Log("Application Initialting" , Category.Info , Priority.High);
         }
         protected override void InitializeShell()
         {
@@ -29,7 +29,7 @@ namespace Coneixement.Desktop
                 Shell.Show();
                 Shell.Visibility = Visibility.Collapsed;
             });
-            _logger.Log("Shell Window Created" , Category.Info , Priority.High);
+            //_logger.Log("Shell Window Created" , Category.Info , Priority.High);
             return Shell;
         }
         //protected override IModuleCatalog CreateModuleCatalog()

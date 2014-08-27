@@ -720,3 +720,39 @@ C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.dll
 C:\Users\VIVEK\Desktop\ikon\Source Code\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Coneixement.Login.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Coneixement.Login.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Coneixement.Infrastructure.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Coneixement.Login.csprojResolveAssemblyReference.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Views\LoginControl.baml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Views\LoginControl.g.cs
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Coneixement.Login_MarkupCompile.cache
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Coneixement.Login.g.resources
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Coneixement.Login.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\obj\Debug\Coneixement.Login.pdb
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\GistConnect\Desktop\Coneixement\Coneixement.Login\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
